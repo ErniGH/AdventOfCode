@@ -1,6 +1,3 @@
-import math
-
-
 def v(c):
     if ord(c) > 96:
         return ord(c) - 96
